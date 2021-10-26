@@ -1,0 +1,82 @@
+@media (max-width: 767px){
+    /*---------------
+        Header
+    ---------------*/
+ 
+    .cont{
+        max-width: 767px;
+        margin: 0 auto;
+        padding: 0 12px;
+    }
+    
+    header{
+        padding-top: 10px;
+    }
+    
+    .header{
+        padding-bottom: 10px;
+    }
+    .logo{
+        width: 80px;
+    }
+    .today_statistic {
+        width: 500px;}
+    
+    .cancel_btn{
+        top: 0px;
+        right: 26px;
+    }
+    
+    .calendar_btn{
+        top: 0;
+        right: 0;
+    }
+    .calendar{
+        display: block;
+    }
+    
+    
+    .calendar>div{
+        margin-right: 0;
+    }
+    
+    input{
+        margin: 0;
+        margin-bottom: 3px;
+    }
+    
+        /*---------------
+            Main section
+        ---------------*/
+    h2{
+        font-size: 12px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 500;
+        }
+        
+        .info>p{
+        font-size: 9px;
+        } 
+        .box>div>a {
+            padding-right: 10px;
+        }
+
+       
+        .box{
+            padding: 0;
+        }
+        .stasistic_info span {
+            display: block;
+            padding-right: 20px;
+            padding-left: 21px;
+            font-size: 14px;
+            padding-bottom: 5px;
+            font-weight: 500;
+        }
+        .grid{
+            text-align: center;
+          }
+     
+    
+}
