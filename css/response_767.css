@@ -1,0 +1,93 @@
+@media (max-width: 767px){
+    /*---------------
+        Header
+    ---------------*/
+ 
+    .cont{
+        margin: 0 auto;
+    }
+    .header{
+        padding-bottom: 10px;
+    }
+
+    .info_header div {
+        display: block;
+        padding-bottom: 5px;
+    }
+    
+    .info_header div>a {
+        font-size: 10px;
+        padding: 3px 6px 3px;
+    }
+
+    .logo{
+        padding: 0;
+    }
+
+    .header img {
+        padding-right: 10px;
+    }
+
+    .info_header ul{
+        padding-bottom: 20px;
+    }
+    
+    .cancel_btn{
+        top: 0px;
+        right: 26px;
+    }
+    
+    .calendar_btn{
+        top: 0;
+        right: 0;
+    }
+    .calendar{
+        
+    }
+ 
+   
+    
+    input{
+        margin: 0;
+        margin-bottom: 3px;
+    }
+    
+        /*---------------
+            Main section
+        ---------------*/
+    h2{
+        font-size: 12px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 500;
+        }
+
+    .first_section{
+        padding: 0 12px ;
+    }
+    .info>p{
+        font-size: 9px;
+    } 
+    .box>div>a {
+        padding-right: 10px;
+    }
+    .box{
+        padding: 0;
+    }
+    .stasistic_info span {
+            display: block;
+            padding-right: 20px;
+            padding-left: 21px;
+            font-size: 14px;
+            padding-bottom: 5px;
+            font-weight: 500;
+    }
+    .grid{
+        text-align: center;
+    }
+    .wiew{
+        padding: 6px 0 5px;
+    }
+
+    
+}

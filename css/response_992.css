@@ -1,0 +1,15 @@
+@media (max-width: 992px){
+
+    .cont{
+        margin: 0 auto;
+    }
+    .grid{
+        text-align: center;
+    }
+    .first_section{
+        padding: 0 12px ;
+    }
+
+
+    
+}
